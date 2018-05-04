@@ -33,4 +33,4 @@
 * nick_name是对方在坦白说下的昵称
 * qq_number是对方的QQ号
 * 2018.5.4 测试可行。
- <div align=center><img width="150" height="150" src="https://github.com/iSupremum/honest_say/raw/master/result_image/result.png"/></div>
+ <div align=center><img width="600" height="100" src="https://github.com/iSupremum/honest_say/raw/master/result_image/result.png"/></div>
