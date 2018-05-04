@@ -14,9 +14,9 @@
 ```Bash
   pip install selenium
 ```
-* `PhantomJS`。下载方式：
+* `PhantomJS`。下载地址：
     	[PhantomJS下载地址](http://phantomjs.org/download.html)  
-	**注意**：解压后将解压的bin目录的路径配置到环境变量中。  
+	**注意**：解压后请将解压的bin目录的路径配置到环境变量中。  
 	测试是否安装成功,在控制台输入：
 ```Bash
   phantomjs -v
